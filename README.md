@@ -1,9 +1,6 @@
 # CourseHive
 
-
-# SellingCourse
-
-**SellingCourse** is a web application that allows administrators to manage online courses and users to purchase them. This application provides an admin dashboard for course management and a user interface for browsing and buying courses.
+**CourseHive** is a web application that allows administrators to manage online courses and users to purchase them. This application provides an admin dashboard for course management and a user interface for browsing and buying courses.
 
 ## Features
 
